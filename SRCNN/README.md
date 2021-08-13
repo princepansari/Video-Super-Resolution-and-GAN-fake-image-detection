@@ -4,6 +4,8 @@ This project is a modified version of the code given in this [link](https://gith
 **Image Super-Resolution Using Deep Convolutional Networks ([link](https://ieeexplore.ieee.org/abstract/document/7115171))**. The code uses SRCNN model for image super resolution, which we modified
 to use for Video Super Resolution.
 
+**Image Super Resolution** in simple terms is to create a better resolution image from a poorer one i.e. to create pixel values that do not exist from the input image for the pixel created when upscaling the image to say 3x. **Video Super Resolution** is to use the same concept in terms of video files.
+
 ## Content
 
 The files and their usages are:
